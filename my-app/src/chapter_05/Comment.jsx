@@ -15,7 +15,7 @@ const styles = {
         height: 50,
         borderRadius: 25,
     },
-    ContentContainer: {
+    contentContainer: {
         marginLeft: 8,
         display: 'flex',
         flexDirection: 'column',
